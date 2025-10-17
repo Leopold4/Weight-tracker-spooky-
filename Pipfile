@@ -12,6 +12,7 @@ pyaudio = "*"
 audioop-lts = "*"
 ffmpeg = "*"
 pillow = "*"
+auto-py-to-exe = "*"
 
 [dev-packages]
 
