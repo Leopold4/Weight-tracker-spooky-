@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "6a3e99c51918da36b2f41637d0ea5bc1f181e731c6a7543d4fbfe50f1ec79123"
+            "sha256": "b50c0afb5fc82c6624ab44c6314de7fa1ef3f19a9f440d68025f64ac616bed73"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -419,20 +419,6 @@
             "index": "pypi",
             "markers": "python_version >= '3.7'",
             "version": "==0.5.2"
-        },
-        "soundfile": {
-            "hashes": [
-                "sha256:03267c4e493315294834a0870f31dbb3b28a95561b80b134f0bd3cf2d5f0e618",
-                "sha256:1e70a05a0626524a69e9f0f4dd2ec174b4e9567f4d8b6c11d38b5c289be36ee9",
-                "sha256:743f12c12c4054921e15736c6be09ac26b3b3d603aef6fd69f9dde68748f2593",
-                "sha256:82dc664d19831933fe59adad199bf3945ad06d84bc111a5b4c0d3089a5b9ec33",
-                "sha256:9c9e855f5a4d06ce4213f31918653ab7de0c5a8d8107cd2427e44b42df547deb",
-                "sha256:a23c717560da2cf4c7b5ae1142514e0fd82d6bbd9dfc93a50423447142f2c445",
-                "sha256:b2c68dab1e30297317080a5b43df57e302584c49e2942defdde0acccc53f0e5b",
-                "sha256:c734564fab7c5ddf8e9be5bf70bab68042cd17e9c214c06e365e20d64f9a69d5"
-            ],
-            "index": "pypi",
-            "version": "==0.13.1"
         }
     },
     "develop": {}
