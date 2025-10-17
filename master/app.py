@@ -186,4 +186,5 @@ insert_button.grid(column=0, row=4, columnspan=2, pady=40)
 weight_in.grid(column=1, row=4, columnspan=2)
 cleardata_bt.grid(column=0, row=5, columnspan=3, pady=(40, 10))
 
+
 root.mainloop()
