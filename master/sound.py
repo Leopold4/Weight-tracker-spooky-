@@ -13,4 +13,3 @@ def read():
 
 def playsound():
     sd.play(read(), 90100)
-    sd.wait()
