@@ -4,3 +4,5 @@ It also compares your last week's average weight with your current average.
 Works on a sqlite database with a customtkinter interface.
 
 The hidden feature may leave you shook.
+
+DOWNLOAD SPOOKTRACKER.ZIP FROM THE OUTPUT FOLDER FOR JUST THE EXE
